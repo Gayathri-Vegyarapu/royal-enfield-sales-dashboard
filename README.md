@@ -1,55 +1,68 @@
-<img width="1526" height="839" alt="image" src="https://github.com/user-attachments/assets/a751a16d-42b8-4a4e-8875-afece49800b6" /># 🏍️ Royal Enfield Sales Dashboard (Dynamic Power BI Project)
+# 🏍️ Royal Enfield Sales Dashboard (Dynamic Power BI Project)
 
 ## 📌 Overview
 
 This project presents an interactive Power BI dashboard designed to analyze Royal Enfield motorcycle sales across different models, countries, deal sizes, and product attributes.
 
-The dashboard enables dynamic exploration of sales performance and provides insights into trends, customer distribution, and product-level analysis.
+The dashboard enables dynamic exploration of sales performance and provides actionable insights into trends, customer distribution, and product-level performance.
 
+It demonstrates how a static multi-page report can be transformed into a scalable, dynamic, and user-friendly analytical solution.
 
+---
 
 ## 📊 Key Features
 
-* Built a dynamic single-page dashboard using slicers
-* Implemented model-based filtering (Bullet, Classic, Meteor, Interceptor)
-* Designed KPI cards for Total Sales, Orders, and Customers
-* Developed advanced DAX measures for dynamic calculations
-* Created year-wise sales trend analysis
-* Analyzed sales distribution by deal size and print color
-* Implemented conditional formatting based on selected model
-* Highlighted top-performing categories dynamically
-* Designed responsive and scalable report layout
+* Built a dynamic single-page dashboard using slicers  
+* Implemented model-based filtering (Bullet, Classic, Meteor, Interceptor)  
+* Designed KPI cards for Total Sales, Orders, and Customers  
+* Developed advanced DAX measures for dynamic calculations  
+* Created year-wise sales trend analysis  
+* Analyzed sales distribution by deal size and print color  
+* Implemented conditional formatting based on selected model  
+* Highlighted top-performing categories dynamically  
+* Designed responsive and scalable report layout  
+* Transformed a multi-page report into a scalable single-page dynamic dashboard  
 
+---
 
 ## 🔄 Project Evolution
 
 ### 🔴 Initial Version (Multi-Page Dashboard)
 
-* Separate pages for each model
-* Button-based navigation
-* Repetitive layout and difficult maintenance
-* Limited scalability
+* Separate pages for each model  
+* Button-based navigation  
+* Repetitive layout and difficult maintenance  
+* Limited scalability  
 
 ### 🟢 Final Version (Dynamic Single-Page Dashboard)
 
-* Converted into a single-page dashboard
-* Implemented slicer-based model selection
-* Dynamic visuals updating based on user interaction
-* Improved performance, usability, and scalability
-* Reduced redundancy and enhanced user experience
+* Converted into a single-page dashboard  
+* Implemented slicer-based model selection  
+* Dynamic visuals updating based on user interaction  
+* Improved performance, usability, and scalability  
+* Reduced redundancy and enhanced user experience  
+
+---
 
 ## 📷 Dashboard Screenshots
 
 ### 🔴 Old Version (Multi-Page Design)
 
 ![Classic](Screenshots/Old_Version/CLASSIC.png)
+
 ![Interceptor](Screenshots/Old_Version/INTERCEPTOR.png)
+
 ![Meteor](Screenshots/Old_Version/METEOR.png)
+
 ![Standard](Screenshots/Old_Version/STANDARD.png)
+
+---
 
 ### 🟢 New Version (Dynamic Dashboard)
 
 ![Final](Screenshots/New_Version/FINAL_VERSION.png)
+
+---
 
 ## 🧠 Key DAX Measures
 
@@ -119,7 +132,7 @@ SWITCH(
 )
 ```
 
-
+---
 
 ### 🔥 Highlight Top Values (Advanced DAX)
 
@@ -140,58 +153,61 @@ IF(
 )
 ```
 
-
+---
 
 ## 🚀 What this demonstrates
 
-- Dynamic titles using SELECTEDVALUE  
-- Conditional formatting using DAX  
-- Highlighting top values using MAXX and ALLSELECTED  
-- Model-based dynamic UI design  
-
-## 🎨 Advanced Features
-
-* Dynamic color themes based on selected model
-* Conditional formatting using DAX
-* Highlighting highest values in charts
-* Context-aware titles using SELECTEDVALUE
-* Interactive slicer-driven report behavior
-
-
-
-## 📊 Business Use Case
-
-This dashboard helps stakeholders:
-
-* Compare performance across different Royal Enfield models
-* Analyze sales trends over time
-* Identify top-performing product categories
-* Understand customer distribution across regions
-* Support data-driven decision-making
+- Strong understanding of DAX functions like SELECTEDVALUE, SWITCH, and MAXX  
+- Ability to implement dynamic and context-aware reporting  
+- Advanced conditional formatting and UI-driven design  
+- Optimization of report structure for scalability and performance  
+- Real-world dashboard design thinking and problem-solving approach  
 
 ---
 
-## 🚀 Key Insights
+## 🎨 Advanced Features
 
-* Identified top-performing motorcycle models based on revenue
-* Observed yearly sales trends and fluctuations
-* Analyzed demand variations across deal sizes and colors
-* Highlighted high-performing segments dynamically
+* Dynamic color themes based on selected model  
+* Conditional formatting using DAX  
+* Highlighting highest values in charts  
+* Context-aware titles using SELECTEDVALUE  
+* Interactive slicer-driven report behavior  
+
+---
+
+## 📊 Business Use Case
+
+This dashboard enables business stakeholders to:
+
+* Monitor and compare performance across different motorcycle models  
+* Analyze sales trends and identify growth patterns  
+* Identify high-performing product categories and customer segments  
+* Evaluate regional sales distribution  
+* Support data-driven strategic decision-making  
+
+---
+
+## 📈 Key Insights
+
+* Identified top-performing motorcycle models based on revenue  
+* Observed yearly sales trends and fluctuations  
+* Analyzed demand variations across deal sizes and colors  
+* Highlighted high-performing segments dynamically  
 
 ---
 
 ## 🛠 Tools Used
 
-* Power BI
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Data Visualization
+* Power BI  
+* DAX (Data Analysis Expressions)  
+* Data Modeling  
+* Data Visualization  
 
 ---
 
 ## 📁 Files
 
-* `RoyalEnfield_Sales_Dashboard.pbix` – Power BI report
+* `RoyalEnfield_Sales_Dashboard.pbix` – Power BI report  
 
 ---
 
@@ -201,3 +217,12 @@ This project is created for learning and portfolio purposes using a syntheticall
 
 ---
 
+## 💡 Project Highlight
+
+This project demonstrates the transformation of a traditional multi-page report into a dynamic, scalable, and user-centric Power BI dashboard using DAX and interactive design principles.
+
+---
+
+## 👤 Author
+
+Your Name
