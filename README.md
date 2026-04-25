@@ -221,8 +221,4 @@ This project is created for learning and portfolio purposes using a syntheticall
 
 This project demonstrates the transformation of a traditional multi-page report into a dynamic, scalable, and user-centric Power BI dashboard using DAX and interactive design principles.
 
----
 
-## 👤 Author
-
-Your Name
