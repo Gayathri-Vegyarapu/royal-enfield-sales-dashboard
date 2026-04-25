@@ -207,7 +207,7 @@ This dashboard enables business stakeholders to:
 
 ## 📁 Files
 
-* `RoyalEnfield_Sales_Dashboard.pbix` – Power BI report  
+- [RoyalEnfield_Sales_Dashboard.pbix](RoyalEnfield_Sales_Dashboard.pbix) – Power BI report
 
 ---
 
