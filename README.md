@@ -207,7 +207,9 @@ This dashboard enables business stakeholders to:
 
 ## 📁 Files
 
-- [RoyalEnfield_Sales_Dashboard.pbix](RoyalEnfield_Sales_Dashboard.pbix) – Power BI report
+- [Download Power BI Dashboard](Power%20BI%20File/RoyalEnfield_Sales_Dashboard.pbix)
+
+> Note: GitHub does not preview .pbix files. Please download and open in Power BI Desktop.
 
 ---
 
